@@ -4,7 +4,7 @@ A modern and responsive Todo App built using React, Vite and Tailwind CSS.
 
 ## 🚀 Live Demo
 
-👉 https://YOUR-VERCEL-LINK.vercel.app
+👉 https://todo-app-sable-delta.vercel.app/
 
 ## ✨ Features
 
