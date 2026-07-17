@@ -27,9 +27,8 @@ A modern and responsive Todo App built using React, Vite and Tailwind CSS.
 - CSS
 
 ## 📸 Screenshot
-## 📸 Screenshot
 
-![Todo App](assets/todo-app-home,jpg)
+![Todo App](assets/todo-app-home.jpg)
 
 ## 📂 Installation
 
