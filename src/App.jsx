@@ -90,7 +90,7 @@ function App() {
     <>
       <div className=" min-h-screen bg-sky-100">
       <Navbar/>
-      <div className=" container mx-auto my-5 rounded-xl p-4 bg-sky-700 text-white px-4 py-2 shadow-2xl w-[95%] sm:w-2/3 md:w-1/2 ">
+      <div className=" container mx-auto my-5 rounded-xl p-4 bg-sky-700 text-white px-4 py-2 shadow-2xl w-[92%] sm:w-2/3 md:w-1/2 ">
       <h1 className='font-bold text-2xl text-center'>iTask - Manage Your Todos at one place</h1>
       <div className="addTodo w-full my-5 mx-2 flex flex-col gap-4">
         <h2 className='text-lg font-bold'>
